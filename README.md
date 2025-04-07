@@ -17,7 +17,7 @@
 ### Main :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)
 
-### Experienced :
+### Basic :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,java,r,matlab,mysql,php,html,css,javascript,streamlit,julia,arduino&perline=5&theme=dark)
 
 ### In studying :
