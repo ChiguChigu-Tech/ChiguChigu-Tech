@@ -1,16 +1,28 @@
-## Hi there 👋
+# About Me :
+1. I'm a postgraduate student from Japan and  currently doing research on artificial intelligence.
 
-<!--
-**ChiguChigu-Tech/ChiguChigu-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. Now I'm interested in RL, NLP and QC.
 
-Here are some ideas to get you started:
+## Connect with me :
+- [X (Twitter)](https://x.com/sekiiin_1110)
+- [Qiita](https://qiita.com/ChiguChigu-Tech)
+- [GitHub](https://github.com/ChiguChigu-Tech)
+- 21rd128.seki@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming Languages & Frameworks etc :
+### Statistical Data :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiguChigu-Tech&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Main :
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
+
+### Experienced :
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,java,r,matlab,mysql,php,html,css,javascript,streamlit,julia,arduino&perline=5)
+
+### In studying :
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=swift,aws&perline=5)
+
+## Dev Tools :
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,docker,slack,arcbrowser)
