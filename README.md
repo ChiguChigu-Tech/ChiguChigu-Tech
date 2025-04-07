@@ -15,14 +15,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiguChigu-Tech&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Main :
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)
 
 ### Experienced :
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,java,r,matlab,mysql,php,html,css,javascript,streamlit,julia,arduino&perline=5)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cs,java,r,matlab,mysql,php,html,css,javascript,streamlit,julia,arduino&perline=5&theme=dark)
 
 ### In studying :
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=swift,aws&perline=5)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=swift,aws&perline=5&theme=dark)
 
 ## Dev Tools :
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,docker,slack,arcbrowser)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,docker,slack,arcbrowser&theme=dark)
