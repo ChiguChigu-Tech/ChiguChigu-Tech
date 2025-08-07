@@ -14,7 +14,9 @@
 
 ## Programming Languages & Frameworks etc :
 ### Statistical Data :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiguChigu-Tech&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChiguChigu-Tech&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/ChiguChigu-Tech)
+
+
 
 ### Main :
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark)
