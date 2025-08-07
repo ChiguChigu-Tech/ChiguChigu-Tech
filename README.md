@@ -1,3 +1,5 @@
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiguChigu-Tech&theme=algolia)](https://github.com/ChiguChigu-Tech)
+
 # About Me :
 1. I'm a postgraduate student from Japan and  currently doing research on artificial intelligence.
 
