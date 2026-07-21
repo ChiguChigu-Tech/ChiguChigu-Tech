@@ -16,9 +16,9 @@
 - Physical AI / Robotics
 
 ### Hobby
-- Vtuberを結構見ています。
+- Vtuberをよく見ています。
   - 最近の推しは「[轟はじめ](https://www.youtube.com/@TodorokiHajime)」さんです。
-- ハッカソンやデータコンペにも参加中
+- ハッカソンやデータコンペにも参加中!!
 
 ## Connect with me :
 - [X (Twitter)](https://x.com/sekiiin_1110)
